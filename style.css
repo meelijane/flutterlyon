@@ -1,0 +1,13 @@
+/*
+Theme Name: Flutter Lyon Theme
+Description: Child theme for the twentytwelve theme
+Author: Amelia Schmidt
+Template: twentytwelve
+*/
+@import url("fluttering.less");
+@import url("../twentytwelve/style.css");
+
+.site-title a {
+    color: #000000!important;
+    text-transform: uppercase;
+}
